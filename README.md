@@ -3,9 +3,10 @@
 
 | what i read |    link     |
 | ----------- | ----------- |
-| growthmind  | [growthmind](growthmindset)|
+| growthmindset  | [growthmindset](growthmindset)|
 | read1       | [read1](read1)|
-| read2       |[read2](read2)|
+| read2       |[read2](read2) |
+| read3       |[read3](read3) |
 
 
 
