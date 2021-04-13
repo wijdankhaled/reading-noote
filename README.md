@@ -1,5 +1,5 @@
 # 102 reading table
-### my name is wijdan
+### my name is wijdan khaled  iam 22 years old i studied computer sciene at bau university
 
 | what i read |    link     |
 | ----------- | ----------- |
