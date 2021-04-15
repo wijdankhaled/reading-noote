@@ -11,6 +11,7 @@ this operators compares two valus to see if they are **not** the same
 2. string 
 3. booleans
 
+
 - Greaten than :>
 this operate cheacks if number on left is greate than number on right.
 - less than :<
