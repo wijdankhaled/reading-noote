@@ -10,3 +10,5 @@
 | read04a     |[read04a](read04a)|
 |read04b      |[read04b](read04b)|
 |read05       |[read05](read05)  |
+|read06       |[read06](read06)  |
+|read07       |[read07](read07)  |
