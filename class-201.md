@@ -13,22 +13,22 @@ to appear on the page.
 ![htmlcode](https://miro.medium.com/max/498/1*5gJzummAqpBDGATo0fjU6Q.jpeg)
 
 **Tags**
--A Closer Look at Tags : <></>
+- A Closer Look at Tags : <></>
   Attributes provide additional information
 about the contents of an element. They appear
 on the opening tag of the element and are
 made up of two parts: a name and a value,
 separated by an equals sign.
 ex:
-<p lang="en-us">Paragraph in English</p>
+p lang="en-us" Paragraph in English</p>
 
-- <body>: Everything inside this element is
+- body: Everything inside this element is
 shown inside the main browser
 window.
-- <head> : element.
+- head : element.
 This contains information
 about the page.
-- <title>:
+- title:
 element are either shown in the
 top of the browser.
 - Comments in HTML : <!-- --> 
@@ -39,12 +39,12 @@ other elements on the page.
 - Block elements are
 < h1>, < p>, < ul>, and < li>
 - inline elements are
-<a>, <b>, <em>, and <img>
+a,b, em, and img
 - Grouping Text &
 Elements In a Block :The < div> element allows you to
 group a set of elements together
 in one block-level box.
-- Grouping Text and Elements Inline :The <span> element acts like an inline equivalent of the <div> .
+- Grouping Text and Elements Inline :The span element acts like an inline equivalent of the div .
 - An iframe is like a little window that has been cut into your page — and in that window you can see another page .
 
 
@@ -68,27 +68,34 @@ new markup languages.
 
 
 **HTML5 Layout**
+
 **HTML5** introduces a new set of elements that allow you to divide up the parts of a page.
-The <header> and <footer> elements can be used for:
+
+The header and footer elements can be used for:
 - The main header or footer
 that appears at the top or
 bottom of every page on the
 site.
+
 - A header or footer for an
-individual <article> or
-<section> within the page
-- The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated .
-- The purpose of the <hgroup>
+individual article or
+section within the page
+
+- The article element acts as a container for any section of a page that could stand alone and potentially be syndicated .
+
+- The purpose of the hgroup
 element is to group together a
-set of one or more <h1> through
-<h6> elements so that they are
+set of one or more h1 through
+h6 elements so that they are
 treated as one single heading .
 
 **Who is the Site For?**
 Every website should be designed for the target audience—not just for yourself or the site owner.
+
 **Why People Visit YOUR Website?**
  - Key Motivations
  - Specific Goals
+
 **How Often People Will Visit Your Site?**
 Some sites benefit from being updated more
 frequently than others. Some information.
@@ -97,13 +104,17 @@ frequently than others. Some information.
 information that needs to go on each page of a
 site. It shows the hierarchy of the information
 and how much space it might require.
+
 **site map** The aim is to create a diagram
 of the pages that will be used
 to structure the site. 
+
 **Designing Navigation** Site navigation not only helps people find where they want to go, but also
 helps them understand what your site is about and how it is organized.
+
 **grouping and Similarity**When making sense of a design, we tend to organize visual elements
 into groups.
+
 **Visual hierarchy**Most web users do not read entire pages. Rather, they skim to find
 information.
 
