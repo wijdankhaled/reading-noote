@@ -25,26 +25,36 @@ p lang="en-us" Paragraph in English</p>
 - body: Everything inside this element is
 shown inside the main browser
 window.
+
 - head : element.
 This contains information
 about the page.
+
 - title:
 element are either shown in the
 top of the browser.
+
 - Comments in HTML : <!-- --> 
+
 - ID Attribute :< tag id="id for tag">< tag />
+
 - class attribute: way to identify several elements
 as being different from the
-other elements on the page. 
+other elements on the page.
+
 - Block elements are
 < h1>, < p>, < ul>, and < li>
+
 - inline elements are
 a,b, em, and img
+
 - Grouping Text &
 Elements In a Block :The < div> element allows you to
 group a set of elements together
 in one block-level box.
+
 - Grouping Text and Elements Inline :The span element acts like an inline equivalent of the div .
+
 - An iframe is like a little window that has been cut into your page — and in that window you can see another page .
 
 
@@ -118,7 +128,7 @@ into groups.
 **Visual hierarchy**Most web users do not read entire pages. Rather, they skim to find
 information.
 
-# the ABC programming in java script.
+## the ABC programming in java script.
 
  - A 
 What is a script and how do I How do computers fit in with 
@@ -135,17 +145,17 @@ create one? the world around them? web page?
 
 ![flowchart](https://learnersbucket.com/wp-content/uploads/2019/06/do-while-flow-chart.png)
 
-**A script is a series of instructions that the computer 
+** A script is a series of instructions that the computer 
 can follow in order to achieve a goal. **
 
-**Each time the script runs, it might only use a subset of 
+** Each time the script runs, it might only use a subset of 
 all the instructions. **
 
-**Computers approach tasks in a different way than 
+** Computers approach tasks in a different way than 
 humans, so your instructions must let the computer 
 solve the task prggrammatically. **
 
-**To approach writing a script, break down your goal into 
+** To approach writing a script, break down your goal into 
 a series of tasks and then work out each step needed 
 to complete that task (a flowchart can help). **
 
