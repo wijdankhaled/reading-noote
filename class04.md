@@ -11,7 +11,7 @@ for fictional entertainment listings website.
 
 
 *Every page and every image on a website has a URL*
-![img](https://moz-static.s3.amazonaws.com/learn/seo/Domains-page/_large/domain-description-image.png?mtime=20170320080539)
+![img](https://licreativetechnologies.com/wp-content/uploads/2020/03/website-url-name.png)
 
 **Relative URLs** can be used when linking to pages within your own 
 website.

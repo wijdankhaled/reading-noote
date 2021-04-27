@@ -23,3 +23,4 @@
 |class01    |[class01](class01) |
 |class02   |[class02](class02) |
 |class03    |[class03](class03) |
+|class04   |[class04](class04) |
