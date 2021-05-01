@@ -14,7 +14,7 @@
 |read05       |[read05](read05)  |
 |read06       |[read06](read06)  |
 |read07       |[read07](read07)  |
-|read         |[read09](read09)  |
+|read09       |[read09](read09)  |
 
 ---------------------------------------------
 
@@ -24,3 +24,5 @@
 |class02   |[class02](class02) |
 |class03    |[class03](class03) |
 |class04   |[class04](class04) |
+|class05  |[class05](class05) |
+|class06  |[class06](class06) |
