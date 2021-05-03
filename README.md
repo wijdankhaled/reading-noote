@@ -26,3 +26,4 @@
 |class04   |[class04](class04) |
 |class05  |[class05](class05) |
 |class06  |[class06](class06) |
+|class07  |[class07](class07) |
