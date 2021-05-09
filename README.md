@@ -30,4 +30,5 @@
 |class08  |[class08](class08) |
 |class09 |[class09](class09) |
 |class10 |[class10](class10) |
+|class11 |[class11](class11) |
 
