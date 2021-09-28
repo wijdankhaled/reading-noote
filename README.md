@@ -95,4 +95,5 @@
 | class29-401 |[class29-401](class29-401) |
 | class30-401 |[class30-401](class30-401) |
 | class31-401 |[Context API](class31-401) |
-| class32-401 |[Context API](class32-401) |
+| class32-401 |[Context API - Behaviors](class32-401) |
+| class33-401 |[<Login /> and <Auth />](class33-401) |
