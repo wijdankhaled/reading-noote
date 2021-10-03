@@ -99,3 +99,4 @@
 | class33-401 |[Login  and Auth](class33-401) |
 | class34-401 |[API Integration](class34-401) |
 | class35-401 |[Graphs](class35-401) |
+| class36-401 |[Redux](class36-401) |
