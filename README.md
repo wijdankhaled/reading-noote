@@ -100,3 +100,4 @@
 | class34-401 |[API Integration](class34-401) |
 | class35-401 |[Graphs](class35-401) |
 | class36-401 |[Redux](class36-401) |
+| class37-401 |[Redux - Combined Reducers](class36-401) |
