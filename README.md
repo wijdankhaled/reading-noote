@@ -102,3 +102,4 @@
 | class36-401 |[Redux](class36-401) |
 | class37-401 |[Redux - Combined Reducers](class37-401) |
 | class38-401 |[Redux - Asynchronous Actions](class38-401) |
+| class39-401 |[Redux Toolkit](class39-401) |
